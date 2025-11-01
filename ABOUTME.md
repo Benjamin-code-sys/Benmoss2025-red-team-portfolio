@@ -23,8 +23,7 @@ I have strong hands-on knowledge and practical experience with topics and techni
 - I play **basketball** — team sport keeps me disciplined and sharp under pressure.
 
 ## Contact
-- Email: your-email@example.com  
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: mossbenjamin254@gmail.com  
 
 ---
 
