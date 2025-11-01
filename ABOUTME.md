@@ -17,8 +17,6 @@ I have strong hands-on knowledge and practical experience with topics and techni
 - **RTO** (red team operations and adversary emulation)
 - **MalDev** (malware development concepts, analysis, and lab work)
 
-> Note: Public content in this repo is **sanitized** and safe. Any dangerous or weaponized artifacts are kept private and only shared under proper authorization/NDA.
-
 ## Other
 - I play **basketball** — team sport keeps me disciplined and sharp under pressure.
 
