@@ -27,7 +27,3 @@ I have strong hands-on knowledge and practical experience with topics and techni
 
 ---
 
-**If you want**, I can also:
-- Format this as `ABOUT.md` (larger, front-page style), or  
-- Create a short one-line bio for your GitHub profile (2-3 options), or  
-- Produce a commit message and the exact steps to add this file using the GitHub website or GitHub Desktop.
