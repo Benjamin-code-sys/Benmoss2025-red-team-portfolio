@@ -1,12 +1,4 @@
----
-generator: CherryTree
-title: Startup-Folder
----
 
-::: page
-# Startup-Folder {#startup-folder .title}
-
-\
 
 # Startup-Folder
 
@@ -34,3 +26,4 @@ title: Startup-Folder
 
 ![](images/4-1.png)
 :::
+
